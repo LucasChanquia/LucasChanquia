@@ -15,11 +15,13 @@ programador. **Me fascina poder encontrar la solución a los problemas de la vid
 
 - **Javascript** 
 - **React.js**
+- **Next.js**
 - **Node.js**
 - **Express.js**
 - **PostgreSQL**
 - **Sequelize**
 - **GIT**
+- **Scrum**
 
 ### Contáctame! 
 Pongo a disposición mis conocimientos para ayudar a crear soluciones integrales.
