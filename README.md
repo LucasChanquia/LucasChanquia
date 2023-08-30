@@ -29,3 +29,5 @@ Pongo a disposición mis conocimientos para ayudar a crear soluciones integrales
 lucaschanquia@gmail.com
 
 [Linkedin](https://www.linkedin.com/in/lucas-chanquia/)
+
+[Portfolio](https://www.lucaschanquia.com) 
