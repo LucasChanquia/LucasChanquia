@@ -13,9 +13,11 @@ programador. **Me fascina poder encontrar la solución a los problemas de la vid
 
 ## ¿Qué tecnologías uso?
 
-- **Javascript** 
+- **Javascript**
+- **Typescript** 
 - **React.js**
 - **Next.js**
+- **PHP**
 - **Node.js**
 - **Express.js**
 - **PostgreSQL**
