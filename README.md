@@ -32,4 +32,4 @@ lucaschanquia@gmail.com
 
 [Linkedin](https://www.linkedin.com/in/lucas-chanquia/)
 
-[Portfolio](https://www.lucaschanquia.com) 
+[Portfolio](https://portfolio-lucaschanquia.vercel.app/) 
